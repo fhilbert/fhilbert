@@ -3,8 +3,8 @@
 Je m'appelle Nicolas et j'habite en région Parisienne . Je vous propose de vous aider à réaliser tous vos projets de developpement Web ou de modifier vos projets  existants en les améliorant techniquement et à les rendre les plus visibles possibles (SEO) par Google . Je suis autonome, volontaire, organisé et intuitif .
 Une première vie de 20 ans dans la restauration m'a permis de toucher à beaucoup de secteurs : 
 * gestion opérationnelle d'un restaurant
-*gestion des commandes 
-*factures/comptabilité
+    *gestion des commandes 
+    *factures/comptabilité
 
 * le recrutement/droit du travail
 Si c'est loin de chez toi, pas de panique tu peux me contacter via divers moyens (on voit ça plus bas) et en plus, je peux travailler en remote, y a pas de soucis, git c'est un de mes skills.

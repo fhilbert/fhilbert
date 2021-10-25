@@ -16,9 +16,9 @@ Je suis autonome, volontaire, organisé et intuitif et j'adore le travail en éq
 
 Une première vie de 20 ans dans la restauration m'a permis de toucher à beaucoup de secteurs :
 
-- gestion opérationnelle d'un restaurant
+* gestion opérationnelle d'un restaurant
 
-- le recrutement/droit du travail
+* le recrutement/droit du travail
 
 ## Principales réalisations
 

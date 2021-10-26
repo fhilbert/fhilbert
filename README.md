@@ -6,17 +6,18 @@ Je m'appelle Frank, j'habite en région Parisienne . Je vous propose de vous aid
 
 <details>
  <summary>Technologies : </summary>
- * Javascript <br/>
- * VueJS VueCLI Vuex Vuetify<br/>
- * Nuxt <br/>
- * NodeJS <br/>
- * MySql <br/>
- * MongoDb <br/>
- * Sequelize <br/>
- * Php (en apprentissage) <br/>
- * Html5 <br/>
- * Css3 <br/>
- * Bootstrap <br/>
+ 
+ - Javascript <br/>
+ - VueJS VueCLI Vuex Vuetify<br/>
+ - Nuxt <br/>
+ - NodeJS <br/>
+ - MySql <br/>
+ - MongoDb <br/>
+ - Sequelize <br/>
+ - Php (en apprentissage) <br/>
+ - Html5 <br/>
+ - Css3 <br/>
+ - Bootstrap <br/>
  
 </details>
 

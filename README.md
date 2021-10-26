@@ -72,7 +72,7 @@ Donc, si tu as besoin d'un developpeur front, back ou fullstack je suis ouvert √
 
 J'ai fini une formation de developpeur web avec OpenClassRooms, je suis disponible et travaille sur des side projects pour ne pas perdre la main !
 
-Je suis l√† pour qu'on s'apporte mutuellement. Mon but c'est votre satisfaction .
+Mon but c'est votre satisfaction .
 <br/>
 <br/>
 

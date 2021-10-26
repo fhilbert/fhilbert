@@ -6,17 +6,17 @@ Je m'appelle Frank, j'habite en région Parisienne . Je vous propose de vous aid
 
 <details>
  <summary>Technologies : </summary>
- Javascript <br/>
- VueJS VueCLI Vuex Vuetify<br/>
- Nuxt <br/>
- NodeJS <br/>
- MySql <br/>
- MongoDb <br/>
- Sequelize <br/>
- Php (en apprentissage) <br/>
- Html5 <br/>
- Css3 <br/>
- Bootstrap <br/>
+ * Javascript <br/>
+ * VueJS VueCLI Vuex Vuetify<br/>
+ * Nuxt <br/>
+ * NodeJS <br/>
+ * MySql <br/>
+ * MongoDb <br/>
+ * Sequelize <br/>
+ * Php (en apprentissage) <br/>
+ * Html5 <br/>
+ * Css3 <br/>
+ * Bootstrap <br/>
  
 </details>
 
@@ -35,7 +35,6 @@ Tous les projets ont été réalisés sur Github
 ### Projet 2 Intégration d'une maquette d'un site de réservation de chambres d'hôtels et particulières en ligne
 
      technologies : HTML5 CSS
-     @icn-camera
 
 ### Projet 3 Intégration d'une maquette d'application mobile proposant un service de commande en ligne de plats avec quelques animations
 

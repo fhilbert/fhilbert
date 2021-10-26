@@ -2,14 +2,22 @@
 
 ## Présentation
 
-Je m'appelle Frank, j'habite en région Parisienne . Je vous propose de vous aider à réaliser tous vos projets de developpement Web ou de modifier vos projets existants en les améliorant techniquement et à les rendre les plus visibles possibles (SEO) par Google .
+Je m'appelle Frank, j'habite en région Parisienne . Je vous propose de vous aider à réaliser tous vos projets de developpement Web ou de modifier vos projets existants en les améliorant techniquement et en rendant les plus visibles possibles (SEO) par Google .
 
 <details>
- <summary>langages : </summary>
- js <br/>
- js <br/>
- js <br/>
- js <br/>
+ <summary>Technologies : </summary>
+ Javascript <br/>
+ VueJS VueCLI Vuex Vuetify<br/>
+ Nuxt <br/>
+ NodeJS <br/>
+ MySql <br/>
+ MongoDb <br/>
+ Sequelize <br/>
+ Php (en apprentissage) <br/>
+ Html5 <br/>
+ Css3 <br/>
+ Bootstrap <br/>
+ 
 </details>
 
 Je suis autonome, volontaire, organisé et intuitif et j'adore le travail en équipe.
@@ -27,6 +35,7 @@ Tous les projets ont été réalisés sur Github
 #### Projet 2 Intégration d'une maquette d'un site de réservation de chambres d'hôtels et particulières en ligne
 
      technologies : HTML5 CSS
+     @icn-camera
 
 ### Projet 3 Intégration d'une maquette d'application mobile proposant un service de commande en ligne de plats avec quelques animations
 
@@ -48,17 +57,12 @@ Tous les projets ont été réalisés sur Github
 
     technologies : VueJs VueCLI MySql Sequelize HTML5 CSS Javascript NodeJs Express
 
-:frog:
-
-[![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com)
-[![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Frank’s Stats](https://github-readme-stats.vercel.app/api?username=fhilbert&show_icons=true)
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=fhilbert&theme=blue-green)
-<img src=https://komarev.com/ghpvc/?username = GitHub_fhilbert/>
+<!-- [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com) -->
+<!-- [![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/) -->
+<!-- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) -->
+<!-- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) -->
+<!-- ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) -->
+<!-- ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) -->
 
 Donc, si tu as besoin d'un developpeur front, back ou fullstack je suis ouvert à toute proposition. Même si tu utilises des technos différentes de ce que j'ai appris, pas de problème, je suis disposé à m'en remettre plein la tête et d'enrichir mon savoir, j'aime ça .
 
@@ -74,13 +78,24 @@ _ou_
 
 sur mon Gmail : fhilbert78@gmail.com
 
+_ou_
+
+https://www.fhilbert.fr/index.html
+
 ## Skills
+
+Curieux - Créatif <br/>
+Méthodique - Autonome <br/>
+Communication - Adaptabilité <br/>
+Empathie - Coopération <br/>
 
 <!--
 **fhilbert/fhilbert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
+![Frank’s Stats](https://github-readme-stats.vercel.app/api?username=fhilbert&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=fhilbert&theme=blue-white)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...

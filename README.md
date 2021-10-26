@@ -28,10 +28,14 @@ Une première vie de 20 ans dans la restauration m'a permis de toucher à beauco
 - gestion opérationnelle d'un restaurant
 
 - le recrutement/droit du travail
+  <br/>
+  <br/>
 
 ## Principales réalisations
 
 Tous les projets ont été réalisés sur Github
+<br/>
+<br/>
 
 ### Projet 2 Intégration d'une maquette d'un site de réservation de chambres d'hôtels et particulières en ligne
 
@@ -69,10 +73,15 @@ Donc, si tu as besoin d'un developpeur front, back ou fullstack je suis ouvert �
 J'ai fini une formation de developpeur web avec OpenClassRooms, je suis disponible et travaille sur des side projects pour ne pas perdre la main !
 
 Je suis là pour qu'on s'apporte mutuellement. Mon but c'est votre satisfaction .
+<br/>
+<br/>
 
-## Si t'es ok
+### Si t'es ok
 
-Contacte moi sur mon LinkedIn <https://www.linkedin.com/in/frank-hilbert/>
+<br/>
+<br/>
+
+Contacte moi sur mon LinkedIn: https://linkedin.com/in/frank-hilbert/
 
 _ou_
 

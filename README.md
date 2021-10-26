@@ -24,15 +24,15 @@ Je suis autonome, volontaire, organisé et intuitif et j'adore le travail en éq
 
 Une première vie de 20 ans dans la restauration m'a permis de toucher à beaucoup de secteurs :
 
-* gestion opérationnelle d'un restaurant
+- gestion opérationnelle d'un restaurant
 
-* le recrutement/droit du travail
+- le recrutement/droit du travail
 
 ## Principales réalisations
 
 Tous les projets ont été réalisés sur Github
 
-#### Projet 2 Intégration d'une maquette d'un site de réservation de chambres d'hôtels et particulières en ligne
+### Projet 2 Intégration d'une maquette d'un site de réservation de chambres d'hôtels et particulières en ligne
 
      technologies : HTML5 CSS
      @icn-camera

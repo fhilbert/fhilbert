@@ -92,6 +92,7 @@ Tous les projets ont été réalisés sur Github
     <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>
 
 </div>
+
 ### Projet 7 Projet complet présentant un réseau social d'entreprise inspiré de Facebook. Créer de la base de données jusqu'à l'interface utilisateur par mes soins
 
     technologies : VueJs VueCLI MySql Sequelize HTML5 CSS Javascript NodeJs Express

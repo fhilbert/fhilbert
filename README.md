@@ -114,10 +114,19 @@ Tous les projets ont été réalisés sur Github
 <!-- ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) -->
 <br/>
 <br/>
-### Outils
-     <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"/>
+</div>
 
+### Outils
+
+<div>
+      <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"/>
+      <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"/>
+      <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"/>        
+      <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"/ >
+</div>
            
+<br/>
+<br/>
 <br/>
 
 Donc, si tu as besoin d'un developpeur front, back ou fullstack je suis ouvert à toute proposition. Même si tu utilises des technos différentes de ce que j'ai appris, pas de problème, je suis disposé à m'en remettre plein la tête et d'enrichir mon savoir, j'aime ça .
